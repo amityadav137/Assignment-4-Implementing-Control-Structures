@@ -1,0 +1,67 @@
+{
+    "Monday": {
+        "morning": [
+            "Amit",
+            "Shyam"
+        ],
+        "afternoon": [
+            "Hari",
+            "Jason"
+        ],
+        "evening": []
+    },
+    "Tuesday": {
+        "morning": [
+            "Amit",
+            "Shyam"
+        ],
+        "afternoon": [
+            "Hari",
+            "Jason"
+        ],
+        "evening": []
+    },
+    "Wednesday": {
+        "morning": [
+            "Amit",
+            "Shyam"
+        ],
+        "afternoon": [
+            "Hari",
+            "Jason"
+        ],
+        "evening": []
+    },
+    "Thursday": {
+        "morning": [
+            "Amit",
+            "Shyam"
+        ],
+        "afternoon": [
+            "Hari",
+            "Jason"
+        ],
+        "evening": []
+    },
+    "Friday": {
+        "morning": [
+            "Amit",
+            "Shyam"
+        ],
+        "afternoon": [
+            "Hari",
+            "Jason"
+        ],
+        "evening": []
+    },
+    "Saturday": {
+        "morning": [],
+        "afternoon": [],
+        "evening": []
+    },
+    "Sunday": {
+        "morning": [],
+        "afternoon": [],
+        "evening": []
+    }
+}
